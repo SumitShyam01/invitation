@@ -448,6 +448,7 @@
 	
 	#menu ul
 	{
+		font-size: 20px;
 	}
 	
 	#menu li
@@ -461,7 +462,7 @@
 		padding: 2em 1.5em;
 		text-align: center;
 		text-decoration:  none;
-		text-transform: uppercase;
+		/* text-transform: uppercase; */
 		font-weight: 700;
 		color: rgba(255,255,255,0.5);
 	}
